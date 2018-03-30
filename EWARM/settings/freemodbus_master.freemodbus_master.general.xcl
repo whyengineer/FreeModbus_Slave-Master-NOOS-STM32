@@ -1,0 +1,15 @@
+"D:\arm\bin\armproc.dll" 
+
+"D:\arm\bin\armstlink2.dll" 
+
+"C:\Users\Administrator\Desktop\bacheng\demo\freemodbus_demo\freemodbus_master\EWARM\freemodbus_master\Exe\freemodbus_master.out" 
+
+--plugin "D:\arm\bin\armbat.dll" 
+
+--device_macro "D:\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "D:\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+
